@@ -6,7 +6,7 @@ A comprehensive project management and collaboration solution that seamlessly in
 
 ## Micoservice Architecture
 
-![Architecture backend ](Design%20System%20Architecture%20Project.jpg)
+![Architecture backend ](DesignSystemEgileKom.jpg)
 
 ## Use case
 
